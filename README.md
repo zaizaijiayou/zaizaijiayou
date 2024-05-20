@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 
 
-![me](https://github.com/zaizaijiayou/zaizaijiayou/assets/136974677/730c1c25-2f74-43c3-aca2-c19515f7a3f3)
+![me](https://github.com/zaizaijiayou/zaizaijiayou/assets/136974677/77b23c14-92de-4b2d-b094-acbd3c78e984)
+
 
 
 ## Hi there! 👋 
