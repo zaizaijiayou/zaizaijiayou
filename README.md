@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 
-![Header](https://student.cs.uwaterloo.ca/~l87he/me.jpg)
+
+![me](https://github.com/zaizaijiayou/zaizaijiayou/assets/136974677/730c1c25-2f74-43c3-aca2-c19515f7a3f3)
+
 
 ## Hi there! 👋 
 I'm Hillary, an undergraduate math student at the University of Waterloo. Welcome to my GitHub profile where you can explore my projects and get to know more about my work. 
