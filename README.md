@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile! 
 
-## Hi there! 
-
-👋 I'm Hillary, an undergraduate math student at the University of Waterloo. Welcome to my GitHub profile where you can explore my projects and get to know more about my work. 
+## Hi there! 👋 
+I'm Hillary, an undergraduate math student at the University of Waterloo. Welcome to my GitHub profile where you can explore my projects and get to know more about my work. 
 
 ### About Me 
 - 🔭 I’m currently an 3B undergraduate math student at the University of Waterloo.
