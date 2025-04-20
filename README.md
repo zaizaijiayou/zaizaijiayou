@@ -4,7 +4,7 @@
 I'm Hillary, an undergraduate math student at the University of Waterloo. Welcome to my GitHub profile where you can explore my projects and get to know more about my work. 
 
 ### About Me 
-- 🔭 I’m currently an 3B undergraduate math student at the University of Waterloo.
+- 🔭 I’m currently an 4A undergraduate math student at the University of Waterloo.
 - 🌱 I’m currently learning data visualization tools
 - 🤔 I’m interested in Finance and Business
 - 😄 I love travelling, skiing, diving, and playing badminton during my free time
